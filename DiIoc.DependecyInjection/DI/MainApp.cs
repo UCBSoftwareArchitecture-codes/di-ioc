@@ -21,7 +21,7 @@ namespace DiIoc.DependecyInjection.DI
             //4. Injection via Service Locator
             //A service locator can act like a simple runtime mapper. 
             //This allows code to be added at run-time without re-compiling the application and in some cases without having to even restart it.
-            CollegeDIServiceLocator collegeByServiceLocator = new CollegeDIServiceLocator(1);
+            CollegeDIServiceLocator collegeByServiceLocator = new CollegeDIServiceLocator(1); // if is 1 is a socccer event
             collegeByServiceLocator.GetEvents();
 
 
