@@ -1,0 +1,4 @@
+C:\Users\pablo.sangueza\Documents\GitProjects\di-ioc\DiIoc.InversionOfControl\obj\Debug\netstandard2.0\DiIoc.InversionOfControl.csprojAssemblyReference.cache
+C:\Users\pablo.sangueza\Documents\GitProjects\di-ioc\DiIoc.InversionOfControl\obj\Debug\netstandard2.0\DiIoc.InversionOfControl.csproj.CoreCompileInputs.cache
+C:\Users\pablo.sangueza\Documents\GitProjects\di-ioc\DiIoc.InversionOfControl\obj\Debug\netstandard2.0\DiIoc.InversionOfControl.AssemblyInfoInputs.cache
+C:\Users\pablo.sangueza\Documents\GitProjects\di-ioc\DiIoc.InversionOfControl\obj\Debug\netstandard2.0\DiIoc.InversionOfControl.AssemblyInfo.cs
