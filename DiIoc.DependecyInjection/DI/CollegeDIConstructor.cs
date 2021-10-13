@@ -2,15 +2,15 @@ namespace DiIoc.DependecyInjection.DI
 {
     public class CollegeDIConstructor
     {
-        private IEvent _events;
+        private IEvent _event;
 
         public CollegeDIConstructor(IEvent ie)
         {
-            _events=ie;
+            _event=ie;
         }
         public void GetEvents()  
         {  
-            _events.LoadEventDetail();  
+            _event.LoadEventDetail();  
         }  
     }
 
